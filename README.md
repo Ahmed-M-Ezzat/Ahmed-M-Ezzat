@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ezzat</h1>
 
-- 🎉 I recently completed the **Digital Egypt Pioneers Initiative - DEPI Bootcamp**
+- 🎉 I recently completed the **Digital Egypt Pioneers Initiative (DEPI) - Software Testing Bootcamp**
 
-- 🌱 I’m currently learning **Unit Testing**
+- 🌱 I’m currently learning **Software Testing**
 
 - 🚀 I'm currently building a mobile application with **Gdscript and Godot Engine.**
 

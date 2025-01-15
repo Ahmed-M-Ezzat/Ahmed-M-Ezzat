@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ezzat</h1>
 
-- 🎉 I recently completed the [Digital Egypt Pioneers Initiative - DEPI Bootcamp](https://rxchallenger.github.io/)
+- 🎉 I recently completed the Digital Egypt Pioneers Initiative - DEPI Bootcamp
 
 - 🌱 I’m currently learning **Unit Testing**
 
